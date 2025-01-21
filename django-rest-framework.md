@@ -32,5 +32,5 @@ poetry run django-admin startproject core
 When creating apps, create them in the `apps` directory.
 
 ```bash
-poetry run django-admin startapp apps/api
+poetry run django-admin startapp apps/<app-name>
 ```
